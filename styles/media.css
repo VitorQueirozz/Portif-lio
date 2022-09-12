@@ -40,6 +40,10 @@
 }
 
 @media screen and (max-width: 1135px) {
+
+    .nav-bar {
+        padding: 1.5rem 6rem;
+    }
     .cabecalho {
         padding-left: 0px;
     }
