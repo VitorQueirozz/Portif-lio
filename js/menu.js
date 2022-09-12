@@ -5,6 +5,6 @@ function menuShow() {
         document.querySelector('.icon').src = "/imagem/menu.svg"
     } else {
         menuMobile.classList.add('open')
-        document.querySelector('.icon').src = "/imagem/close.svg"
+        document.querySelector('.icon').src = "../imagem/close.svg"
     }
 }
