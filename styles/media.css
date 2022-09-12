@@ -263,6 +263,10 @@
 }
 
 @media screen and (max-width: 570px) {
+    .nav-bar {
+        padding: 1.5rem 0rem;
+    }
+
     .conteudo-inicio h1  {
         padding-top: 20px;
         font-size: 40px;
@@ -311,6 +315,9 @@
 }
 
 @media screen and (max-width: 362px) {
+    .nav-bar {
+        padding: 1.5rem 0rem;
+    }
     .redes-inicio {
         display: flex;
         gap: 30px;
